@@ -1,7 +1,7 @@
 # EmotionSense-AI
 Real-time facial emotion detection system using Deep Learning, OpenCV, and CNN with live webcam inference.
 
-# 🧠 Real-Time Emotion Detection AI (Stable v3)
+# 🧠 Real-Time Emotion Detection AI 
 
 > **Author:** Vaibhav Singh
 > **Project Type:** Computer Vision + Deep Learning
