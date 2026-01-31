@@ -213,10 +213,7 @@ Built a real-time facial emotion recognition system using OpenCV and CNN trained
 **Vaibhav Singh**
 Data Scientist | NLP Engineer | AI Developer
 
+
 📜 License
 
 This project is for learning, research, and portfolio purposes.
-
-This project is for learning, research, and portfolio purposes.
-
-This project is for learning, research, and portfolio purposes.This project is for learning, research, and portfolio purposes.
